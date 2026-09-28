@@ -3,6 +3,9 @@ Practice for local LLM deployment and querying via Python code
 
 This README will be used mainly to track progress and write some basic notes, not a standard README
 
+## Preamble
+- Special thanks to the authors of Warner et al. 2025, and their GitHub repository located at https://github.com/ubcbraincircuits/SPIT_Generation/tree/main for all pre-generated llm patient files, patient prompt, interviewer question bank, and code snippet to start with
+
 
 ## Completed:
 - Link VS Code to GitHub and successfully push edits to cloud
