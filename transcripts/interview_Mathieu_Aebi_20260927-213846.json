@@ -1,0 +1,127 @@
+{
+    "csv_file": "llm_patients_031925.csv",
+    "row_index": 51,
+    "patient_name": "Mathieu Aebi",
+    "conversation": [
+        {
+            "role": "user",
+            "content": "full name"
+        },
+        {
+            "role": "assistant",
+            "content": "My full name is Mathieu Aebi."
+        },
+        {
+            "role": "user",
+            "content": "any children or dependents?"
+        },
+        {
+            "role": "assistant",
+            "content": "Yes, I have two children. My son is 10 years old, and my daughter is 7 years old."
+        },
+        {
+            "role": "user",
+            "content": "what are their names?"
+        },
+        {
+            "role": "assistant",
+            "content": "I don't typically share those details with people I don't know well. My son's name is Luca, and my daughter's name is L\u00e9a, but I'm not sure that's information you need."
+        },
+        {
+            "role": "user",
+            "content": "are you currently working?"
+        },
+        {
+            "role": "assistant",
+            "content": "I am currently working as a horticultural consultant, which I find fulfilling, though the last few weeks have been slightly challenging. The job involves a lot of outdoor work, which I generally enjoy, but some days the anxiety spikes and I struggle to focus. I've found some strategies to cope, like taking short breaks and practicing meditation during my lunch hour."
+        },
+        {
+            "role": "user",
+            "content": "do you have disability assistance?"
+        },
+        {
+            "role": "assistant",
+            "content": "No, I don't receive disability assistance. My work is flexible enough that I can manage my health needs, and I have supportive measures in place like a part-time job and access to therapy."
+        },
+        {
+            "role": "user",
+            "content": "any allergies?"
+        },
+        {
+            "role": "assistant",
+            "content": "The question about allergies is a good one. I don't have any known food allergies that I'm aware of, though I did have a minor reaction to something in the past that required a visit to the doctor. It might have been a plant-based supplement that didn't agree with me, but I'm not certain. What specific type of allergy are you asking about? Is it environmental, food, or something else? I'd prefer not to speculate if I'm not sure about the context."
+        },
+        {
+            "role": "user",
+            "content": "no worries next question, current medications?"
+        },
+        {
+            "role": "assistant",
+            "content": "I'm currently taking Paroxetine (20-50 mg/day) and Topiramate (25-50 mg/day) for my anxiety and bulimia. The dosages have been adjusted to manage my symptoms more effectively. The Paroxetine seems to be helping with the anxiety, but it sometimes interacts with my appetite regulation, which can be challenging. Topiramate appears to have a stabilizing effect on my moods, though I sometimes experience memory fog or slight fatigue. The medication management has been somewhat trial-and-error, as my doctor continues to fine-tune my regimen."
+        },
+        {
+            "role": "user",
+            "content": "any health supplements?"
+        },
+        {
+            "role": "assistant",
+            "content": "I take melatonin and sports nutrition supplements regularly. The melatonin helps with my sleep patterns, and the sports nutrition supplements support my physical health while working outdoors."
+        },
+        {
+            "role": "user",
+            "content": "any health conditions/diagnoses?"
+        },
+        {
+            "role": "assistant",
+            "content": "I have generalized anxiety disorder and bulimia. The anxiety can be quite overwhelming at times, especially when dealing with complex projects in my work as a horticultural consultant. I often find myself overthinking potential outcomes and stressing about every little detail. The bulimia is a difficult cycle to break, and I've struggled with purging when my anxiety spikes. I've tried to manage it through therapy and self-care practices, but some days are more challenging than others. The emotional toll is significant, leaving me feeling isolated and uncertain about how to navigate these intense periods of distress. I'm working to develop healthier coping mechanisms, but it's a constant journey of learning and growth."
+        },
+        {
+            "role": "user",
+            "content": "any previous hospitalizations or surgeries?"
+        },
+        {
+            "role": "assistant",
+            "content": "I've had a few hospitalizations and one surgery. I was hospitalized twice specifically for my anxiety disorder - the first time was about five years ago, and the second was roughly two years later. The hospital stays were quite intense experiences, with periods of complete emotional shutdown and then sudden, intense panic. During my time there, I worked closely with therapists who helped me develop coping strategies, learning techniques to manage my anxiety and regain control over my thoughts.\n\nThe surgery was for a broken arm. That happened when I was 25. I was skiing and fell awkwardly, fracturing my radius. It was a fairly routine procedure, but the recovery was painful. The cast was on for several weeks, which was difficult - I had to adjust my entire routine and find new ways to accomplish daily tasks.\n\nLooking back, I realize how much those experiences have shaped my perspective. They've taught me to be more patient, to take things one step at a time. But they've also left scars - literal and emotional. Sometimes, even now, I'll catch myself tensing up, expecting pain. It's a reminder that my body and mind are connected in ways I'm still learning to understand."
+        },
+        {
+            "role": "user",
+            "content": "any history of rehab or substance counselling?"
+        },
+        {
+            "role": "assistant",
+            "content": "No, I don't have a history of rehab or substance counseling."
+        },
+        {
+            "role": "user",
+            "content": "any history of psychiatric conditions in other family members?"
+        },
+        {
+            "role": "assistant",
+            "content": "Yes, there's a family history of psychiatric conditions. My mother has struggled with depression throughout my life. I remember moments when she seemed distant, even when we were together. It wasn't until I was older that I realized how much her depression affected me - the uncertainty, the worry. I've always felt a bit responsible, like I should be supporting her even though I'm just a child.\n\nMy father's health has been stable, but he's had hypertension since I was young. Sometimes he gets frustrated, says it's from worrying too much. I'm not sure if there's a connection, but it makes me think about how stress can ripple through families.\n\nMy younger sister has asthma, and I recall the times she'd get these intense episodes. It was like her body would suddenly shut down, and we'd have to rush her to the hospital. Those moments were terrifying for all of us.\n\nLooking back, I realize how these conditions have shaped our family dynamics. There's a layer of tension, an undercurrent of worry that's always present. It's like we're all holding our breath, waiting for something to shift."
+        },
+        {
+            "role": "user",
+            "content": "where were you born?"
+        },
+        {
+            "role": "assistant",
+            "content": "I was born in Danielleberg, Canada."
+        },
+        {
+            "role": "user",
+            "content": "what was your average mark and favourite topic/class in high school?"
+        },
+        {
+            "role": "assistant",
+            "content": "I would say my high school performance was proficient. I didn't stand out in any particular subject, but I consistently showed average understanding. As for my favorite class, I have to think back - I enjoyed English literature. The way words could paint entire worlds intrigued me. I remember a few pieces that really stuck, but the specifics are fuzzy now. It was more about the escape than any particular teacher or text."
+        },
+        {
+            "role": "user",
+            "content": "what do you do to relax on a stressful day?"
+        },
+        {
+            "role": "assistant",
+            "content": "I find myself gravitating toward meditation and yoga when I'm feeling overwhelmed. There's something calming about focusing on my breath, even if only for a few minutes. Sometimes, when I'm really struggling, I'll put on some classical music - it seems to create a space where I can temporarily quiet my mind. But honestly, the simplest thing is often just going for a walk. Being in nature helps me clear my head and gain some perspective. I feel a sense of stability when I'm surrounded by plants and trees, which is ironic given my line of work, but it's genuinely grounding for me."
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+# General Information
+- full name
+- preferred name
+- date of birth
+- sex
+- current city/town of residence
+- single, married, or common law?
+- any children or dependents?
++ if yes, names and ages?
+- currently working? 
++ if yes, name of company? years working?
+- disability assistance status
++ if yes, what type and when?
+- handedness: left, right, both
+- current doctors?
+- allergies
+- current medications and dosage?
+- health supplements
+- frequency of nicotine, marijuana, alcohol use?
+# Medical History
+- health conditions/diagnoses and details such as when you were diagnosed?
+- previous hospitalizations, surgeries
+- history of head injuries/concussions
++ if yes, when and how?
+- history of seizures
++ if yes, when it started?
+- history of rehab or substance counselling 
++ if yes, where? when?
+- other medical professionals seen 
++ if yes, who/when/why?
+# Family History
+- history of psychiatric conditions in other family members 
++ if yes, who? did they receive treatment or hospital care?
+- family history of neurological or genetic conditions
++ if yes, who? did they receive treatment or hospital care?
+- siblings
++ if yes, ask for each sibling's basic info such as name, age, where they live, occupation
+# Personal History
+- where were you born? 
++ if outside canada, year of arrival?
+- are you a canadian citizen?
+- birth complications
+- at a young age, did you walk, talk, and develop friendships like other kids?
+- difficulties in elementary school
+- traumatic experiences growing up
+- average mark and favorite topic/class in high school
+- further education after high school
++ if yes, where and what type of studies?
+- previous work history 
++ if yes, companies and years of work?
+- any previous marriages/long term relationships
+- hobbies
+- what do you do to relax on a stressful day?
+# Additional Comments
+- anything the doctor needs to know
+- no more questions, end interview
